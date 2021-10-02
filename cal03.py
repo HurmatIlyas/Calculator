@@ -1,4 +1,4 @@
-#calculator in Python(v0.2)
+#calculator in Python(v0.3)
 def add(num1,num2):
 	return num1+num2
 def div(num1,num2):
